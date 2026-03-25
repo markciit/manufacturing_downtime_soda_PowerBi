@@ -1,0 +1,22 @@
+Manufacturing Downtime
+Productivity & downtime data for a soda bottling production line, including information on the operator, product, start & end times, and downtime factors for each batch.
+
+Analysis
+1. What's the current line efficiency? (total time / min time)
+2. Are any operators underperforming?
+3. What are the leading factors for downtime?
+4. Do any operators struggle with particular types of operator error?
+connection between operator and type of error
+
+
+Tags: Business
+
+Data Structure: Multiple tables
+# Of Records: 38
+# Of Fields" 12
+
+Date Added: 09/19/2024.
+
+(Source: Maven Analytics)
+
+(License: Public Domain)
